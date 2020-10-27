@@ -1,0 +1,12 @@
+[submodule "utils"]
+	path = utils
+	url = https://github.com/guilleatm/utils.git
+[submodule "animations"]
+	path = animations
+	url = https://github.com/guilleatm/animations.git
+[submodule "tilemap"]
+	path = tilemap
+	url = https://github.com/guilleatm/tilemap.git
+[submodule "a-star-lua"]
+	path = a-star-lua
+	url = https://github.com/lattejed/a-star-lua.git
