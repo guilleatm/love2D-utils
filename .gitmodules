@@ -7,3 +7,6 @@
 [submodule "tilemap"]
 	path = tilemap
 	url = https://github.com/guilleatm/tilemap.git
+[submodule "a-star-lua"]
+	path = a-star-lua
+	url = https://github.com/guilleatm/a-star-lua.git
