@@ -1,7 +1,9 @@
 # Using the repo
 Clone repo (and submodules): git clone --recurse-submodules https://github.com/guilleatm/love2d-utils.git  
 Update repo (and submodules): git submodule update --remote  
-Push repo (and submodules): git push --recurse-submodules=on-demand  
+Push repo (and submodules): git add, commit and push for each submodule, then for the project  
+> Use: git submodules foreach 'git command' for executing the same command in each submodule
+
 
 # Useful code for making games with Löve2D
 
